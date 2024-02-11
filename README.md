@@ -1,6 +1,6 @@
 ## Webhooks Plug JS Client
 
-This holds the code for the webhooks plug client used to connect to the server
+This holds the code for the webhooks plug client used to connect to the server.
 
 ## installation
 
